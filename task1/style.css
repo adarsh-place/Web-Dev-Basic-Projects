@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    padding: 5px;
+    margin: 100px;
+}
+
+.changer{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.d1{
+    background-color: rgba(34, 115, 61, 0.784);
+}
+
+.d2{
+    background-color: rgba(96, 56, 241, 0.712);
+}
+
+.d3{
+    background-color: rgba(245, 103, 226, 0.705);
+}
+
+.h{
+    color: white;
+}
